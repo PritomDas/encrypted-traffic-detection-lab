@@ -1,7 +1,7 @@
 # Encrypted Traffic Detection Lab
 
 
-<img src="./images/img1.png" alt="image" width="400">
+<img src="./images/img1.png" alt="image" width="1000">
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/joshmadakor0/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
